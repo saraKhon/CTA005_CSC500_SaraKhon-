@@ -1,6 +1,6 @@
 
 """
-Student: Sara khon Module 5: Critical Thinking Assignment Date 04/22/2025
+Student: Sara khon Module 5: Critical Thinking Assignment Date 04/22/2025..
 """
 
 # Part: 01
